@@ -12,7 +12,7 @@ Une liste de ressources pour le developpement de Jeux vidéo.
     - [Moteurs](#Moteurs)
     - [Frameworks](#Frameworks)
   - [Outils de creation artistique](#outils-de-creation-artistique)
-    - [Modelisation & texturage](#Modelisation-&-texturage)
+    - [Modelisation & texture](#Modelisation-&-texturage)
     - [Dessin](#Dessin)
   - [Documentations](#Documentations)
   - [Articles](#articles)
@@ -55,7 +55,7 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 
 ## Outils de creation artistique
 
-### Modelisation & texturage
+### Modelisation & texture
 
 - [Blender V2.8+](https://www.blender.org/)
 
