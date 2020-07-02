@@ -6,7 +6,7 @@ Une liste de ressources pour le developpement de Jeux vidéo.
 > ntd: V.0.0.1 (Alpha)
 
 - [Game Memento](#Game-Memento)
-  -[Get started](#Get-started)
+  - [Get started](#Get-started)
   - [Outils de Developpement](#outils-de-Developpement)
     - [Editeurs et IDE](#editeurs-et-ide)
     - [Moteurs](#Moteurs)
