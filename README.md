@@ -104,3 +104,5 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 ## Autres Ressources
 
 - [Udemy-dl](https://github.com/r0oth3x49/udemy-dl): logiciel en console vous permettant de dl VOS cours udemy en local.
+
+- [Gamecodeur](https://www.gamecodeur.fr/)
