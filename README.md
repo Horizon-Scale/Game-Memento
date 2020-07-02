@@ -43,8 +43,6 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 
 - [Game Maker Studio](https://www.yoyogames.com/gamemaker)
 
-- [Game Maker Studio](https://www.yoyogames.com/gamemaker)
-
 - [CryEngine](https://www.cryengine.com/)
 
 ### Frameworks
@@ -93,9 +91,9 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 
 ### Unity3D
 
-- [TutoUnityFr](https://code.visualstudio.com)
+- [TutoUnityFr](https://www.youtube.com/channel/UCJRwb5W4ZzG43J5_dViL6Fw)
 
-- [Brakeys](https://code.visualstudio.com)
+- [Brakeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 ### Blender
 
