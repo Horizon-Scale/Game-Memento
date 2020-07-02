@@ -83,6 +83,10 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 
 ## Livres
 
+- [Comment dessiner les Comics - La Méthode Marvel](https://www.amazon.fr/Comment-dessiner-Comics-M%C3%A9thode-Marvel/dp/2355744491)
+
+- [Dessiner l'anatomie dans les comics](https://www.amazon.fr/Dessiner-lanatomie-comics-Nouvelle-%C3%A9dition/dp/235000841X)
+
 ## Podcasts
 
 ## Vidéos
