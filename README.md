@@ -75,6 +75,8 @@ rapprochant d'un IDE, peut etre utilisé pour n'importe quel langage
 
 - [Godot docs](https://docs.godotengine.org/en/stable/)
 
+- [Le Blog d'Inarie Sensei](https://inarisensei.blogspot.com/)
+
 ## Articles
 
 - [Decouvert Paint tool sai](https://www.forum-dessine.fr/tutoriels/decouvrir-paint-tool-sai)
